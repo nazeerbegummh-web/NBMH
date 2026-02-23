@@ -1,0 +1,7 @@
+{
+  "name": "Nazeer Begum Memorial Hospital (NBMH) Portal",
+  "description": "A comprehensive healthcare portal for NBMH, featuring appointment booking, donation management, medical services, and an advanced admin dashboard for hospital administration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
